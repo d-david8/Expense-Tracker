@@ -1,4 +1,4 @@
-package com.ExpenseTracker;
+package com.expensetracker.application;
 public class Main {
     public static void main(String[] args) {
 
